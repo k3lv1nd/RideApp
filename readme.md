@@ -10,6 +10,8 @@ This is an online ride servicies application where users can either give or Rese
 
 - Inside the working Directory of the cloned project, Run `composer install`
 
+-create the .env file and add the applications configurations accordingly.
+
 - Once the composer is done installing Laravel,
 
 - Run `php artisan migrate`
